@@ -46,7 +46,7 @@ if (padLocalToken) {
 
 
 bot.use(WechatyWebPanelPlugin({
-    apiKey: '***', apiSecret: '****',
+    apiKey: 'fc6d9b6786b867d7b3dab4f161abcae21233e4ba', apiSecret: 'ad0df11d0f12b07947ef94e675a9db4988cb17e4',
 }))
 bot.use(WechatyMessageRecordPlugin())
 bot.start()
